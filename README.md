@@ -4,11 +4,9 @@ The bank management system is an application for maintaining a personâ„¢s ac
 
 BANKING MANAGEMENT SYSTEM
 INTRODUCTION OF BANKING MANAGEMENT SYSTEM:
-Are you looking for Banking management system for your final year project? We are here to help you. You can contact us 
 
 The banking management system sector has seen some greatest expansion in the past year and with the number of customer interaction increasing the day it has to tally all the records in the database.
 
-Final Year Project Help for Computer Science
 
 When it comes to managing the money or valuable assets it automatically becomes the crucial matter for the service provider and the client as well for the trustworthiness.
 
